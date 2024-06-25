@@ -19,7 +19,7 @@ Vero
 – Un blocco di logica/contenuto riutilizzabile all’interno dell’applicazione
 
 7. Un componente React può venire creato in tre modi: come funzione, classe o interfaccia.
-Vero
+Falso
 
 8. Le props sono frammenti di informazione assegnati all’invocazione di un componente React, utili al fine di rendere il componente dinamico e più riutilizzabile.
 Vero
